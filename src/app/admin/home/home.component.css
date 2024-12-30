@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+footer{
+    background-image: url(../../../../public/assets/sangyupsal_dark.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}

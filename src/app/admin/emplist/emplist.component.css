@@ -1,0 +1,13 @@
+section{
+    background-image: url("../../../../public/assets/back_img_dark.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img{
+    height: 250px;
+    width: 300px;
+}
+footer{
+    background-color: black;
+}
